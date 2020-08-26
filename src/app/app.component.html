@@ -1,0 +1,23 @@
+<nb-layout>
+  <nb-layout-header fixed><app-header></app-header></nb-layout-header>
+  <nb-layout-header subheader><app-subheader></app-subheader></nb-layout-header>
+  <nb-sidebar class="menu-sidebar" tag="menu-sidebar" responsive>
+    <!-- <a (click)="toggleSidebar()" href="#" class="sidebar-toggle">
+      <button nbButton > <nb-action  nbTooltip="My WishList" nbTooltipPlacement="bottom" class="control-item" icon="briefcase"> <button  ></button></nb-action>My WishList</button>
+    </a> -->
+    <app-sidebar></app-sidebar>
+  </nb-sidebar>
+  <router-outlet></router-outlet>
+  <nb-layout-column><app-engine ></app-engine></nb-layout-column>
+
+    
+  <nb-layout-column >   <app-register></app-register> </nb-layout-column>
+    
+<!--   
+  <nb-layout-column >  <app-subfooter></app-subfooter> </nb-layout-column> -->
+
+  
+  <nb-layout-footer fixed> <app-subfooter center></app-subfooter><ngx-footer center></ngx-footer></nb-layout-footer> 
+
+
+</nb-layout>

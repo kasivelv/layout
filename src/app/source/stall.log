@@ -1,0 +1,2939 @@
+Exporter version: 6.4.3, Blender version: 2.83.3
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  F:\Babylonjs Test\Sandbox\source\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of node:  RootNode (gltf orientation matrix)
+	processing begun of node:  RootNode (model correction matrix)
+	processing begun of node:  fcb34543f8494380be6c553a83ce0cb5.fbx
+	processing begun of node:  RootNode
+	processing begun of node:  Rectangle001
+	processing begun of mesh:  Rectangle001_Carpet_0
+		processing begun of material:  Carpet
+			processing texture Carpet_baseColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  176
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  Shape3
+	processing begun of node:  Node_7
+	processing begun of mesh:  Shape3_Blue_Wall_0
+		processing begun of material:  Blue_Wall
+		num positions      :  147
+		num normals        :  147
+		num tangents       :  588
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of node:  Rectangle002
+	processing begun of mesh:  Rectangle002_Blue_Wall_0
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  369
+		num normals        :  369
+		num tangents       :  1476
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  332
+	processing begun of node:  Shape004
+	processing begun of node:  Node_12
+	processing begun of mesh:  Shape004_Blue_Wall_0
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  90
+		num normals        :  90
+		num tangents       :  360
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of node:  Rectangle003
+	processing begun of mesh:  Rectangle003_White_Wall_0
+		processing begun of material:  White_Wall
+		num positions      :  1060
+		num normals        :  1060
+		num tangents       :  4240
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1056
+	processing begun of node:  Rectangle004
+	processing begun of mesh:  Rectangle004_White_Wall_0
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Box003
+	processing begun of mesh:  Box003_White_Wall_0
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle005
+	processing begun of mesh:  Rectangle005_Blue_Wall_0
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box006
+	processing begun of mesh:  Box006_White_Wall_0
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle006
+	processing begun of mesh:  Rectangle006_White_Wall_0
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Shape005
+	processing begun of mesh:  Shape005_Rect_0
+		processing begun of material:  Rect
+		num positions      :  1280
+		num normals        :  1280
+		num tangents       :  5120
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of node:  RectangRed Table
+	processing begun of mesh:  RectangRed Table__0
+		processing begun of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Text001
+	processing begun of node:  Text003
+	processing begun of mesh:  Text003_Blue_Wall_0
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  2620
+		num normals        :  2620
+		num tangents       :  10480
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2420
+	processing begun of node:  Text004
+	processing begun of node:  Sphere004
+	processing begun of mesh:  Sphere004_Light_0
+		processing begun of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Tarrote Machine
+	processing begun of node:  Machine
+	processing begun of node:  MM6
+	processing begun of mesh:  MM6__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line004
+	processing begun of mesh:  Line004_Material #25_0
+		processing begun of material:  Material_25
+			processing texture Material_25_baseColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  412
+		num normals        :  412
+		num tangents       :  1648
+		num uvs            :  824
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  352
+	processing begun of node:  mm7
+	processing begun of mesh:  mm7__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line001
+	processing begun of mesh:  Line001_Material #25_0
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  320
+		num normals        :  320
+		num tangents       :  1280
+		num uvs            :  640
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Line002
+	processing begun of mesh:  Line002_Material #25_0
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  152
+		num normals        :  152
+		num tangents       :  608
+		num uvs            :  304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of node:  Line003
+	processing begun of mesh:  Line003_Material #25_0
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  39
+		num normals        :  39
+		num tangents       :  156
+		num uvs            :  78
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  MM2
+	processing begun of mesh:  MM2__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM
+	processing begun of mesh:  MM_Material #25_0
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM3
+	processing begun of mesh:  MM3_Material #25_0
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  InfoDesk
+	processing begun of node:  Info_desk
+	processing begun of node:  Circle02
+	processing begun of mesh:  Circle02_08 - Default_0
+		processing begun of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle03
+	processing begun of mesh:  Circle03__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle04
+	processing begun of mesh:  Circle04__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle05
+	processing begun of mesh:  Circle05_08 - Default_0
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Line02
+	processing begun of mesh:  Line02_08 - Default_0
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  1848
+		num normals        :  1848
+		num tangents       :  7392
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3580
+	processing begun of node:  Circle01
+	processing begun of mesh:  Circle01_10 - Default_0
+		processing begun of material:  10_-_Default
+		num positions      :  394
+		num normals        :  394
+		num tangents       :  1576
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  784
+	processing begun of node:  Circle06
+	processing begun of mesh:  Circle06_08 - Default_0
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Info_Top001
+	processing begun of node:  Node_75
+	processing begun of mesh:  Info_Top001__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  1282
+		num normals        :  1282
+		num tangents       :  5128
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  646
+	processing begun of node:  Object001
+	processing begun of node:  Node_78
+	processing begun of mesh:  Object001__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  92
+		num normals        :  92
+		num tangents       :  368
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of node:  Object002
+	processing begun of node:  Node_81
+	processing begun of mesh:  Object002_Material #56_0
+		processing begun of material:  Material_56
+			processing texture Material_56_baseColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  80
+		num normals        :  80
+		num tangents       :  320
+		num uvs            :  160
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72
+	processing begun of node:  Info_Top
+	processing begun of node:  Node_84
+	processing begun of mesh:  Info_Top__0
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  832
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  188
+	processing begun of node:  Sofa
+	processing begun of node:  Sofa_Table
+	processing begun of node:  Sofa2
+	processing begun of node:  Node_89
+	processing begun of mesh:  Sofa2_Sofa_0
+		processing begun of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b01
+	processing begun of node:  Node_92
+	processing begun of mesh:  Sofa1b01_Sofa_0
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b
+	processing begun of node:  Node_95
+	processing begun of mesh:  Sofa1b_Sofa_0
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box08
+	processing begun of mesh:  Box08_Rect_0
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box12
+	processing begun of mesh:  Box12_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box13
+	processing begun of mesh:  Box13_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box14
+	processing begun of mesh:  Box14_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box15
+	processing begun of mesh:  Box15_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster3
+	processing begun of node:  Poster3.001
+	processing begun of mesh:  Poster3_Material #106_0
+		processing begun of material:  Material_106
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster2
+	processing begun of node:  Poster_1
+	processing begun of mesh:  Poster_1_Material #131_0
+		processing begun of material:  Material_131
+			processing texture Material_131_baseColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster
+	processing begun of node:  Poster004
+	processing begun of mesh:  Poster004_Material #130_0
+		processing begun of material:  Material_130
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Cylinder002
+	processing begun of mesh:  Cylinder002_Material #5_0
+		processing begun of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder003
+	processing begun of mesh:  Cylinder003_Material #5_0
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder004
+	processing begun of mesh:  Cylinder004_Material #5_0
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  TV
+	processing begun of node:  TV.001
+	processing begun of node:  Poster005
+	processing begun of mesh:  Poster005_Material #106_0
+		processing begun of material:  Material_106_0
+			processing texture Material_106_0_baseColor
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Group001
+	processing begun of node:  Sphere012
+	processing begun of mesh:  Sphere012_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere011
+	processing begun of mesh:  Sphere011_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere010
+	processing begun of mesh:  Sphere010_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere009
+	processing begun of mesh:  Sphere009_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Spher
+	processing begun of node:  Sphere002
+	processing begun of mesh:  Sphere002_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere003
+	processing begun of mesh:  Sphere003_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere001
+	processing begun of mesh:  Sphere001_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere006
+	processing begun of mesh:  Sphere006_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere005
+	processing begun of mesh:  Sphere005_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere013
+	processing begun of mesh:  Sphere013_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere014
+	processing begun of mesh:  Sphere014_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere007
+	processing begun of mesh:  Sphere007_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere008
+	processing begun of mesh:  Sphere008_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere016
+	processing begun of mesh:  Sphere016_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere015
+	processing begun of mesh:  Sphere015_Light_0
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Box016
+	processing begun of node:  Node_1100
+	processing begun of mesh:  Box016_White_Wall_0
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Terrot Info Sign
+	processing begun of node:  Cylinder001
+	processing begun of mesh:  Cylinder001_Material #5_0
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Text002
+	processing begun of node:  Sofa004
+	processing begun of node:  Sofa_Table001
+	processing begun of node:  Sofa003
+	processing begun of node:  Node_1110
+	processing begun of mesh:  Sofa003_Sofa_0
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b002
+	processing begun of node:  Node_1113
+	processing begun of mesh:  Sofa1b002_Sofa_0
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b003
+	processing begun of node:  Node_1116
+	processing begun of mesh:  Sofa1b003_Sofa_0
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box017
+	processing begun of mesh:  Box017_Rect_0
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box018
+	processing begun of mesh:  Box018_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box019
+	processing begun of mesh:  Box019_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box020
+	processing begun of mesh:  Box020_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box021
+	processing begun of mesh:  Box021_08 - Default_0
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  RootNode (gltf orientation matrix).001
+	processing begun of node:  RootNode (model correction matrix).001
+	processing begun of node:  fcb34543f8494380be6c553a83ce0cb5.fbx.001
+	processing begun of node:  RootNode.001
+	processing begun of node:  Rectangle001.001
+	processing begun of mesh:  Rectangle001_Carpet_0.001
+		processing begun of material:  Carpet
+		registered as also a user of material:  Carpet
+		Custom split normals with tangents being used
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  176
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  Shape3.001
+	processing begun of node:  Node_7.001
+	processing begun of mesh:  Shape3_Blue_Wall_0.001
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  147
+		num normals        :  147
+		num tangents       :  588
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of node:  Rectangle002.001
+	processing begun of mesh:  Rectangle002_Blue_Wall_0.001
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  369
+		num normals        :  369
+		num tangents       :  1476
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  332
+	processing begun of node:  Shape004.001
+	processing begun of node:  Node_12.001
+	processing begun of mesh:  Shape004_Blue_Wall_0.001
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  90
+		num normals        :  90
+		num tangents       :  360
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of node:  Rectangle003.001
+	processing begun of mesh:  Rectangle003_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  1060
+		num normals        :  1060
+		num tangents       :  4240
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1056
+	processing begun of node:  Rectangle004.001
+	processing begun of mesh:  Rectangle004_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Box003.001
+	processing begun of mesh:  Box003_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle005.001
+	processing begun of mesh:  Rectangle005_Blue_Wall_0.001
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box006.001
+	processing begun of mesh:  Box006_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle006.001
+	processing begun of mesh:  Rectangle006_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Shape005.001
+	processing begun of mesh:  Shape005_Rect_0.001
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		num positions      :  1280
+		num normals        :  1280
+		num tangents       :  5120
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of node:  RectangRed Table.001
+	processing begun of mesh:  RectangRed Table__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Text001.001
+	processing begun of node:  Text003.001
+	processing begun of mesh:  Text003_Blue_Wall_0.001
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  2620
+		num normals        :  2620
+		num tangents       :  10480
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2420
+	processing begun of node:  Text004.001
+	processing begun of node:  Sphere004.001
+	processing begun of mesh:  Sphere004_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Tarrote Machine.001
+	processing begun of node:  Machine.001
+	processing begun of node:  MM6.001
+	processing begun of mesh:  MM6__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line004.001
+	processing begun of mesh:  Line004_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  412
+		num normals        :  412
+		num tangents       :  1648
+		num uvs            :  824
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  352
+	processing begun of node:  mm7.001
+	processing begun of mesh:  mm7__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line001.001
+	processing begun of mesh:  Line001_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  320
+		num normals        :  320
+		num tangents       :  1280
+		num uvs            :  640
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Line002.001
+	processing begun of mesh:  Line002_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  152
+		num normals        :  152
+		num tangents       :  608
+		num uvs            :  304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of node:  Line003.001
+	processing begun of mesh:  Line003_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  39
+		num normals        :  39
+		num tangents       :  156
+		num uvs            :  78
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  MM2.001
+	processing begun of mesh:  MM2__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM.001
+	processing begun of mesh:  MM_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM3.001
+	processing begun of mesh:  MM3_Material #25_0.001
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  InfoDesk.001
+	processing begun of node:  Info_desk.001
+	processing begun of node:  Circle02.001
+	processing begun of mesh:  Circle02_08 - Default_0.001
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle03.001
+	processing begun of mesh:  Circle03__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle04.001
+	processing begun of mesh:  Circle04__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle05.001
+	processing begun of mesh:  Circle05_08 - Default_0.001
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Line02.001
+	processing begun of mesh:  Line02_08 - Default_0.001
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  1848
+		num normals        :  1848
+		num tangents       :  7392
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3580
+	processing begun of node:  Circle01.001
+	processing begun of mesh:  Circle01_10 - Default_0.001
+		processing begun of material:  10_-_Default
+		registered as also a user of material:  10_-_Default
+		num positions      :  394
+		num normals        :  394
+		num tangents       :  1576
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  784
+	processing begun of node:  Circle06.001
+	processing begun of mesh:  Circle06_08 - Default_0.001
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Info_Top001.001
+	processing begun of node:  Node_75.001
+	processing begun of mesh:  Info_Top001__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  1282
+		num normals        :  1282
+		num tangents       :  5128
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  646
+	processing begun of node:  Object001.001
+	processing begun of node:  Node_78.001
+	processing begun of mesh:  Object001__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  92
+		num normals        :  92
+		num tangents       :  368
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of node:  Object002.001
+	processing begun of node:  Node_81.001
+	processing begun of mesh:  Object002_Material #56_0.001
+		processing begun of material:  Material_56
+		registered as also a user of material:  Material_56
+		Custom split normals with tangents being used
+		num positions      :  80
+		num normals        :  80
+		num tangents       :  320
+		num uvs            :  160
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72
+	processing begun of node:  Info_Top.001
+	processing begun of node:  Node_84.001
+	processing begun of mesh:  Info_Top__0.001
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  832
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  188
+	processing begun of node:  Sofa.001
+	processing begun of node:  Sofa_Table.001
+	processing begun of node:  Sofa2.001
+	processing begun of node:  Node_89.001
+	processing begun of mesh:  Sofa2_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b01.001
+	processing begun of node:  Node_92.001
+	processing begun of mesh:  Sofa1b01_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b.001
+	processing begun of node:  Node_95.001
+	processing begun of mesh:  Sofa1b_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box08.001
+	processing begun of mesh:  Box08_Rect_0.001
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box12.001
+	processing begun of mesh:  Box12_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box13.001
+	processing begun of mesh:  Box13_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box14.001
+	processing begun of mesh:  Box14_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box15.001
+	processing begun of mesh:  Box15_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster3.002
+	processing begun of node:  Poster3.003
+	processing begun of mesh:  Poster3_Material #106_0.001
+		processing begun of material:  Material_106
+		registered as also a user of material:  Material_106
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster2.001
+	processing begun of node:  Poster_1.001
+	processing begun of mesh:  Poster_1_Material #131_0.001
+		processing begun of material:  Material_131
+		registered as also a user of material:  Material_131
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster.001
+	processing begun of node:  Poster004.001
+	processing begun of mesh:  Poster004_Material #130_0.001
+		processing begun of material:  Material_130
+		registered as also a user of material:  Material_130
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Cylinder002.001
+	processing begun of mesh:  Cylinder002_Material #5_0.001
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder003.001
+	processing begun of mesh:  Cylinder003_Material #5_0.001
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder004.001
+	processing begun of mesh:  Cylinder004_Material #5_0.001
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  TV.002
+	processing begun of node:  TV.003
+	processing begun of node:  Poster005.001
+	processing begun of mesh:  Poster005_Material #106_0.001
+		processing begun of material:  Material_106_0
+		registered as also a user of material:  Material_106_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Group001.001
+	processing begun of node:  Sphere012.001
+	processing begun of mesh:  Sphere012_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere011.001
+	processing begun of mesh:  Sphere011_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere010.001
+	processing begun of mesh:  Sphere010_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere009.001
+	processing begun of mesh:  Sphere009_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Spher.001
+	processing begun of node:  Sphere002.001
+	processing begun of mesh:  Sphere002_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere003.001
+	processing begun of mesh:  Sphere003_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere001.001
+	processing begun of mesh:  Sphere001_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere006.001
+	processing begun of mesh:  Sphere006_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere005.001
+	processing begun of mesh:  Sphere005_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere013.001
+	processing begun of mesh:  Sphere013_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere014.001
+	processing begun of mesh:  Sphere014_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere007.001
+	processing begun of mesh:  Sphere007_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere008.001
+	processing begun of mesh:  Sphere008_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere016.001
+	processing begun of mesh:  Sphere016_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere015.001
+	processing begun of mesh:  Sphere015_Light_0.001
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Box016.001
+	processing begun of node:  Node_1100.001
+	processing begun of mesh:  Box016_White_Wall_0.001
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Terrot Info Sign.001
+	processing begun of node:  Cylinder001.001
+	processing begun of mesh:  Cylinder001_Material #5_0.001
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Text002.001
+	processing begun of node:  Sofa004.001
+	processing begun of node:  Sofa_Table001.001
+	processing begun of node:  Sofa003.001
+	processing begun of node:  Node_1110.001
+	processing begun of mesh:  Sofa003_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b002.001
+	processing begun of node:  Node_1113.001
+	processing begun of mesh:  Sofa1b002_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b003.001
+	processing begun of node:  Node_1116.001
+	processing begun of mesh:  Sofa1b003_Sofa_0.001
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box017.001
+	processing begun of mesh:  Box017_Rect_0.001
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box018.001
+	processing begun of mesh:  Box018_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box019.001
+	processing begun of mesh:  Box019_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box020.001
+	processing begun of mesh:  Box020_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box021.001
+	processing begun of mesh:  Box021_08 - Default_0.001
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  RootNode (gltf orientation matrix).002
+	processing begun of node:  RootNode (model correction matrix).002
+	processing begun of node:  fcb34543f8494380be6c553a83ce0cb5.fbx.002
+	processing begun of node:  RootNode.002
+	processing begun of node:  Rectangle001.002
+	processing begun of mesh:  Rectangle001_Carpet_0.002
+		processing begun of material:  Carpet
+		registered as also a user of material:  Carpet
+		Custom split normals with tangents being used
+		num positions      :  44
+		num normals        :  44
+		num tangents       :  176
+		num uvs            :  88
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  Shape3.002
+	processing begun of node:  Node_7.002
+	processing begun of mesh:  Shape3_Blue_Wall_0.002
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  147
+		num normals        :  147
+		num tangents       :  588
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  96
+	processing begun of node:  Rectangle002.002
+	processing begun of mesh:  Rectangle002_Blue_Wall_0.002
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  369
+		num normals        :  369
+		num tangents       :  1476
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  332
+	processing begun of node:  Shape004.002
+	processing begun of node:  Node_12.002
+	processing begun of mesh:  Shape004_Blue_Wall_0.002
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  90
+		num normals        :  90
+		num tangents       :  360
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  68
+	processing begun of node:  Rectangle003.002
+	processing begun of mesh:  Rectangle003_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  1060
+		num normals        :  1060
+		num tangents       :  4240
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1056
+	processing begun of node:  Rectangle004.002
+	processing begun of mesh:  Rectangle004_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Box003.002
+	processing begun of mesh:  Box003_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle005.002
+	processing begun of mesh:  Rectangle005_Blue_Wall_0.002
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box006.002
+	processing begun of mesh:  Box006_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Rectangle006.002
+	processing begun of mesh:  Rectangle006_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of node:  Shape005.002
+	processing begun of mesh:  Shape005_Rect_0.002
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		num positions      :  1280
+		num normals        :  1280
+		num tangents       :  5120
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2048
+	processing begun of node:  RectangRed Table.002
+	processing begun of mesh:  RectangRed Table__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Text001.002
+	processing begun of node:  Text003.002
+	processing begun of mesh:  Text003_Blue_Wall_0.002
+		processing begun of material:  Blue_Wall
+		registered as also a user of material:  Blue_Wall
+		num positions      :  2620
+		num normals        :  2620
+		num tangents       :  10480
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2420
+	processing begun of node:  Text004.002
+	processing begun of node:  Sphere004.002
+	processing begun of mesh:  Sphere004_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Tarrote Machine.002
+	processing begun of node:  Machine.002
+	processing begun of node:  MM6.002
+	processing begun of mesh:  MM6__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line004.002
+	processing begun of mesh:  Line004_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  412
+		num normals        :  412
+		num tangents       :  1648
+		num uvs            :  824
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  352
+	processing begun of node:  mm7.002
+	processing begun of mesh:  mm7__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Line001.002
+	processing begun of mesh:  Line001_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  320
+		num normals        :  320
+		num tangents       :  1280
+		num uvs            :  640
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Line002.002
+	processing begun of mesh:  Line002_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  152
+		num normals        :  152
+		num tangents       :  608
+		num uvs            :  304
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  128
+	processing begun of node:  Line003.002
+	processing begun of mesh:  Line003_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  39
+		num normals        :  39
+		num tangents       :  156
+		num uvs            :  78
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32
+	processing begun of node:  MM2.002
+	processing begun of mesh:  MM2__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM.002
+	processing begun of mesh:  MM_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  MM3.002
+	processing begun of mesh:  MM3_Material #25_0.002
+		processing begun of material:  Material_25
+		registered as also a user of material:  Material_25
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  InfoDesk.002
+	processing begun of node:  Info_desk.002
+	processing begun of node:  Circle02.002
+	processing begun of mesh:  Circle02_08 - Default_0.002
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle03.002
+	processing begun of mesh:  Circle03__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle04.002
+	processing begun of mesh:  Circle04__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Circle05.002
+	processing begun of mesh:  Circle05_08 - Default_0.002
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Line02.002
+	processing begun of mesh:  Line02_08 - Default_0.002
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  1848
+		num normals        :  1848
+		num tangents       :  7392
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3580
+	processing begun of node:  Circle01.002
+	processing begun of mesh:  Circle01_10 - Default_0.002
+		processing begun of material:  10_-_Default
+		registered as also a user of material:  10_-_Default
+		num positions      :  394
+		num normals        :  394
+		num tangents       :  1576
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  784
+	processing begun of node:  Circle06.002
+	processing begun of mesh:  Circle06_08 - Default_0.002
+		processing begun of material:  08_-_Default
+		registered as also a user of material:  08_-_Default
+		num positions      :  784
+		num normals        :  784
+		num tangents       :  3136
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1568
+	processing begun of node:  Info_Top001.002
+	processing begun of node:  Node_75.002
+	processing begun of mesh:  Info_Top001__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  1282
+		num normals        :  1282
+		num tangents       :  5128
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  646
+	processing begun of node:  Object001.002
+	processing begun of node:  Node_78.002
+	processing begun of mesh:  Object001__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  92
+		num normals        :  92
+		num tangents       :  368
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  82
+	processing begun of node:  Object002.002
+	processing begun of node:  Node_81.002
+	processing begun of mesh:  Object002_Material #56_0.002
+		processing begun of material:  Material_56
+		registered as also a user of material:  Material_56
+		Custom split normals with tangents being used
+		num positions      :  80
+		num normals        :  80
+		num tangents       :  320
+		num uvs            :  160
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  72
+	processing begun of node:  Info_Top.002
+	processing begun of node:  Node_84.002
+	processing begun of mesh:  Info_Top__0.002
+		processing begun of material:  RectangRed_Table__0
+		registered as also a user of material:  RectangRed_Table__0
+		num positions      :  208
+		num normals        :  208
+		num tangents       :  832
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  188
+	processing begun of node:  Sofa.002
+	processing begun of node:  Sofa_Table.002
+	processing begun of node:  Sofa2.002
+	processing begun of node:  Node_89.002
+	processing begun of mesh:  Sofa2_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b01.002
+	processing begun of node:  Node_92.002
+	processing begun of mesh:  Sofa1b01_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b.002
+	processing begun of node:  Node_95.002
+	processing begun of mesh:  Sofa1b_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box08.002
+	processing begun of mesh:  Box08_Rect_0.002
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box12.002
+	processing begun of mesh:  Box12_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box13.002
+	processing begun of mesh:  Box13_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box14.002
+	processing begun of mesh:  Box14_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box15.002
+	processing begun of mesh:  Box15_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster3.004
+	processing begun of node:  Poster3.005
+	processing begun of mesh:  Poster3_Material #106_0.002
+		processing begun of material:  Material_106
+		registered as also a user of material:  Material_106
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster2.002
+	processing begun of node:  Poster_1.002
+	processing begun of mesh:  Poster_1_Material #131_0.002
+		processing begun of material:  Material_131
+		registered as also a user of material:  Material_131
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Poster.002
+	processing begun of node:  Poster004.002
+	processing begun of mesh:  Poster004_Material #130_0.002
+		processing begun of material:  Material_130
+		registered as also a user of material:  Material_130
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Cylinder002.002
+	processing begun of mesh:  Cylinder002_Material #5_0.002
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder003.002
+	processing begun of mesh:  Cylinder003_Material #5_0.002
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Cylinder004.002
+	processing begun of mesh:  Cylinder004_Material #5_0.002
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  TV.004
+	processing begun of node:  TV.005
+	processing begun of node:  Poster005.002
+	processing begun of mesh:  Poster005_Material #106_0.002
+		processing begun of material:  Material_106_0
+		registered as also a user of material:  Material_106_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Group001.002
+	processing begun of node:  Sphere012.002
+	processing begun of mesh:  Sphere012_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere011.002
+	processing begun of mesh:  Sphere011_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere010.002
+	processing begun of mesh:  Sphere010_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere009.002
+	processing begun of mesh:  Sphere009_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Spher.002
+	processing begun of node:  Sphere002.002
+	processing begun of mesh:  Sphere002_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere003.002
+	processing begun of mesh:  Sphere003_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere001.002
+	processing begun of mesh:  Sphere001_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere006.002
+	processing begun of mesh:  Sphere006_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere005.002
+	processing begun of mesh:  Sphere005_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere013.002
+	processing begun of mesh:  Sphere013_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere014.002
+	processing begun of mesh:  Sphere014_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere007.002
+	processing begun of mesh:  Sphere007_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere008.002
+	processing begun of mesh:  Sphere008_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere016.002
+	processing begun of mesh:  Sphere016_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Sphere015.002
+	processing begun of mesh:  Sphere015_Light_0.002
+		processing begun of material:  Light
+		registered as also a user of material:  Light
+		Custom split normals with tangents being used
+		num positions      :  559
+		num normals        :  559
+		num tangents       :  2236
+		num uvs            :  1118
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  Box016.002
+	processing begun of node:  Node_1100.002
+	processing begun of mesh:  Box016_White_Wall_0.002
+		processing begun of material:  White_Wall
+		registered as also a user of material:  White_Wall
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Terrot Info Sign.002
+	processing begun of node:  Cylinder001.002
+	processing begun of mesh:  Cylinder001_Material #5_0.002
+		processing begun of material:  Material_5
+		registered as also a user of material:  Material_5
+		Custom split normals with tangents being used
+		num positions      :  198
+		num normals        :  198
+		num tangents       :  792
+		num uvs            :  396
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  192
+	processing begun of node:  Text002.002
+	processing begun of node:  Sofa004.002
+	processing begun of node:  Sofa_Table001.002
+	processing begun of node:  Sofa003.002
+	processing begun of node:  Node_1110.002
+	processing begun of mesh:  Sofa003_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  2204
+		num normals        :  2204
+		num tangents       :  8816
+		num uvs            :  4408
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2144
+	processing begun of node:  Sofa1b002.002
+	processing begun of node:  Node_1113.002
+	processing begun of mesh:  Sofa1b002_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Sofa1b003.002
+	processing begun of node:  Node_1116.002
+	processing begun of mesh:  Sofa1b003_Sofa_0.002
+		processing begun of material:  Sofa
+		registered as also a user of material:  Sofa
+		Custom split normals with tangents being used
+		num positions      :  1216
+		num normals        :  1216
+		num tangents       :  4864
+		num uvs            :  2432
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1148
+	processing begun of node:  Box017.002
+	processing begun of mesh:  Box017_Rect_0.002
+		processing begun of material:  Rect
+		registered as also a user of material:  Rect
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box018.002
+	processing begun of mesh:  Box018_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box019.002
+	processing begun of mesh:  Box019_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box020.002
+	processing begun of mesh:  Box020_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of node:  Box021.002
+	processing begun of mesh:  Box021_08 - Default_0.002
+		processing begun of material:  08_-_Default_0
+		registered as also a user of material:  08_-_Default_0
+		Custom split normals with tangents being used
+		num positions      :  24
+		num normals        :  24
+		num tangents       :  96
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+========= Writing of JSON file started =========
+	writing mesh:  Rectangle001_Carpet_0
+	writing mesh:  Shape3_Blue_Wall_0
+	writing mesh:  Rectangle002_Blue_Wall_0
+	writing mesh:  Shape004_Blue_Wall_0
+	writing mesh:  Rectangle003_White_Wall_0
+	writing mesh:  Rectangle004_White_Wall_0
+	writing mesh:  Box003_White_Wall_0
+	writing mesh:  Rectangle005_Blue_Wall_0
+	writing mesh:  Box006_White_Wall_0
+	writing mesh:  Rectangle006_White_Wall_0
+	writing mesh:  Shape005_Rect_0
+	writing mesh:  RectangRed Table__0
+	writing mesh:  Text003_Blue_Wall_0
+	writing mesh:  Sphere004_Light_0
+	writing mesh:  MM6__0
+	writing mesh:  Line004_Material #25_0
+	writing mesh:  mm7__0
+	writing mesh:  Line001_Material #25_0
+	writing mesh:  Line002_Material #25_0
+	writing mesh:  Line003_Material #25_0
+	writing mesh:  MM2__0
+	writing mesh:  MM_Material #25_0
+	writing mesh:  MM3_Material #25_0
+	writing mesh:  Circle02_08 - Default_0
+	writing mesh:  Circle03__0
+	writing mesh:  Circle04__0
+	writing mesh:  Circle05_08 - Default_0
+	writing mesh:  Line02_08 - Default_0
+	writing mesh:  Circle01_10 - Default_0
+	writing mesh:  Circle06_08 - Default_0
+	writing mesh:  Info_Top001__0
+	writing mesh:  Object001__0
+	writing mesh:  Object002_Material #56_0
+	writing mesh:  Info_Top__0
+	writing mesh:  Sofa2_Sofa_0
+	writing mesh:  Sofa1b01_Sofa_0
+	writing mesh:  Sofa1b_Sofa_0
+	writing mesh:  Box08_Rect_0
+	writing mesh:  Box12_08 - Default_0
+	writing mesh:  Box13_08 - Default_0
+	writing mesh:  Box14_08 - Default_0
+	writing mesh:  Box15_08 - Default_0
+	writing mesh:  Poster3_Material #106_0
+	writing mesh:  Poster_1_Material #131_0
+	writing mesh:  Poster004_Material #130_0
+	writing mesh:  Cylinder002_Material #5_0
+	writing mesh:  Cylinder003_Material #5_0
+	writing mesh:  Cylinder004_Material #5_0
+	writing mesh:  Poster005_Material #106_0
+	writing mesh:  Sphere012_Light_0
+	writing mesh:  Sphere011_Light_0
+	writing mesh:  Sphere010_Light_0
+	writing mesh:  Sphere009_Light_0
+	writing mesh:  Sphere002_Light_0
+	writing mesh:  Sphere003_Light_0
+	writing mesh:  Sphere001_Light_0
+	writing mesh:  Sphere006_Light_0
+	writing mesh:  Sphere005_Light_0
+	writing mesh:  Sphere013_Light_0
+	writing mesh:  Sphere014_Light_0
+	writing mesh:  Sphere007_Light_0
+	writing mesh:  Sphere008_Light_0
+	writing mesh:  Sphere016_Light_0
+	writing mesh:  Sphere015_Light_0
+	writing mesh:  Box016_White_Wall_0
+	writing mesh:  Cylinder001_Material #5_0
+	writing mesh:  Sofa003_Sofa_0
+	writing mesh:  Sofa1b002_Sofa_0
+	writing mesh:  Sofa1b003_Sofa_0
+	writing mesh:  Box017_Rect_0
+	writing mesh:  Box018_08 - Default_0
+	writing mesh:  Box019_08 - Default_0
+	writing mesh:  Box020_08 - Default_0
+	writing mesh:  Box021_08 - Default_0
+	writing mesh:  Rectangle001_Carpet_0.001
+	writing mesh:  Shape3_Blue_Wall_0.001
+	writing mesh:  Rectangle002_Blue_Wall_0.001
+	writing mesh:  Shape004_Blue_Wall_0.001
+	writing mesh:  Rectangle003_White_Wall_0.001
+	writing mesh:  Rectangle004_White_Wall_0.001
+	writing mesh:  Box003_White_Wall_0.001
+	writing mesh:  Rectangle005_Blue_Wall_0.001
+	writing mesh:  Box006_White_Wall_0.001
+	writing mesh:  Rectangle006_White_Wall_0.001
+	writing mesh:  Shape005_Rect_0.001
+	writing mesh:  RectangRed Table__0.001
+	writing mesh:  Text003_Blue_Wall_0.001
+	writing mesh:  Sphere004_Light_0.001
+	writing mesh:  MM6__0.001
+	writing mesh:  Line004_Material #25_0.001
+	writing mesh:  mm7__0.001
+	writing mesh:  Line001_Material #25_0.001
+	writing mesh:  Line002_Material #25_0.001
+	writing mesh:  Line003_Material #25_0.001
+	writing mesh:  MM2__0.001
+	writing mesh:  MM_Material #25_0.001
+	writing mesh:  MM3_Material #25_0.001
+	writing mesh:  Circle02_08 - Default_0.001
+	writing mesh:  Circle03__0.001
+	writing mesh:  Circle04__0.001
+	writing mesh:  Circle05_08 - Default_0.001
+	writing mesh:  Line02_08 - Default_0.001
+	writing mesh:  Circle01_10 - Default_0.001
+	writing mesh:  Circle06_08 - Default_0.001
+	writing mesh:  Info_Top001__0.001
+	writing mesh:  Object001__0.001
+	writing mesh:  Object002_Material #56_0.001
+	writing mesh:  Info_Top__0.001
+	writing mesh:  Sofa2_Sofa_0.001
+	writing mesh:  Sofa1b01_Sofa_0.001
+	writing mesh:  Sofa1b_Sofa_0.001
+	writing mesh:  Box08_Rect_0.001
+	writing mesh:  Box12_08 - Default_0.001
+	writing mesh:  Box13_08 - Default_0.001
+	writing mesh:  Box14_08 - Default_0.001
+	writing mesh:  Box15_08 - Default_0.001
+	writing mesh:  Poster3_Material #106_0.001
+	writing mesh:  Poster_1_Material #131_0.001
+	writing mesh:  Poster004_Material #130_0.001
+	writing mesh:  Cylinder002_Material #5_0.001
+	writing mesh:  Cylinder003_Material #5_0.001
+	writing mesh:  Cylinder004_Material #5_0.001
+	writing mesh:  Poster005_Material #106_0.001
+	writing mesh:  Sphere012_Light_0.001
+	writing mesh:  Sphere011_Light_0.001
+	writing mesh:  Sphere010_Light_0.001
+	writing mesh:  Sphere009_Light_0.001
+	writing mesh:  Sphere002_Light_0.001
+	writing mesh:  Sphere003_Light_0.001
+	writing mesh:  Sphere001_Light_0.001
+	writing mesh:  Sphere006_Light_0.001
+	writing mesh:  Sphere005_Light_0.001
+	writing mesh:  Sphere013_Light_0.001
+	writing mesh:  Sphere014_Light_0.001
+	writing mesh:  Sphere007_Light_0.001
+	writing mesh:  Sphere008_Light_0.001
+	writing mesh:  Sphere016_Light_0.001
+	writing mesh:  Sphere015_Light_0.001
+	writing mesh:  Box016_White_Wall_0.001
+	writing mesh:  Cylinder001_Material #5_0.001
+	writing mesh:  Sofa003_Sofa_0.001
+	writing mesh:  Sofa1b002_Sofa_0.001
+	writing mesh:  Sofa1b003_Sofa_0.001
+	writing mesh:  Box017_Rect_0.001
+	writing mesh:  Box018_08 - Default_0.001
+	writing mesh:  Box019_08 - Default_0.001
+	writing mesh:  Box020_08 - Default_0.001
+	writing mesh:  Box021_08 - Default_0.001
+	writing mesh:  Rectangle001_Carpet_0.002
+	writing mesh:  Shape3_Blue_Wall_0.002
+	writing mesh:  Rectangle002_Blue_Wall_0.002
+	writing mesh:  Shape004_Blue_Wall_0.002
+	writing mesh:  Rectangle003_White_Wall_0.002
+	writing mesh:  Rectangle004_White_Wall_0.002
+	writing mesh:  Box003_White_Wall_0.002
+	writing mesh:  Rectangle005_Blue_Wall_0.002
+	writing mesh:  Box006_White_Wall_0.002
+	writing mesh:  Rectangle006_White_Wall_0.002
+	writing mesh:  Shape005_Rect_0.002
+	writing mesh:  RectangRed Table__0.002
+	writing mesh:  Text003_Blue_Wall_0.002
+	writing mesh:  Sphere004_Light_0.002
+	writing mesh:  MM6__0.002
+	writing mesh:  Line004_Material #25_0.002
+	writing mesh:  mm7__0.002
+	writing mesh:  Line001_Material #25_0.002
+	writing mesh:  Line002_Material #25_0.002
+	writing mesh:  Line003_Material #25_0.002
+	writing mesh:  MM2__0.002
+	writing mesh:  MM_Material #25_0.002
+	writing mesh:  MM3_Material #25_0.002
+	writing mesh:  Circle02_08 - Default_0.002
+	writing mesh:  Circle03__0.002
+	writing mesh:  Circle04__0.002
+	writing mesh:  Circle05_08 - Default_0.002
+	writing mesh:  Line02_08 - Default_0.002
+	writing mesh:  Circle01_10 - Default_0.002
+	writing mesh:  Circle06_08 - Default_0.002
+	writing mesh:  Info_Top001__0.002
+	writing mesh:  Object001__0.002
+	writing mesh:  Object002_Material #56_0.002
+	writing mesh:  Info_Top__0.002
+	writing mesh:  Sofa2_Sofa_0.002
+	writing mesh:  Sofa1b01_Sofa_0.002
+	writing mesh:  Sofa1b_Sofa_0.002
+	writing mesh:  Box08_Rect_0.002
+	writing mesh:  Box12_08 - Default_0.002
+	writing mesh:  Box13_08 - Default_0.002
+	writing mesh:  Box14_08 - Default_0.002
+	writing mesh:  Box15_08 - Default_0.002
+	writing mesh:  Poster3_Material #106_0.002
+	writing mesh:  Poster_1_Material #131_0.002
+	writing mesh:  Poster004_Material #130_0.002
+	writing mesh:  Cylinder002_Material #5_0.002
+	writing mesh:  Cylinder003_Material #5_0.002
+	writing mesh:  Cylinder004_Material #5_0.002
+	writing mesh:  Poster005_Material #106_0.002
+	writing mesh:  Sphere012_Light_0.002
+	writing mesh:  Sphere011_Light_0.002
+	writing mesh:  Sphere010_Light_0.002
+	writing mesh:  Sphere009_Light_0.002
+	writing mesh:  Sphere002_Light_0.002
+	writing mesh:  Sphere003_Light_0.002
+	writing mesh:  Sphere001_Light_0.002
+	writing mesh:  Sphere006_Light_0.002
+	writing mesh:  Sphere005_Light_0.002
+	writing mesh:  Sphere013_Light_0.002
+	writing mesh:  Sphere014_Light_0.002
+	writing mesh:  Sphere007_Light_0.002
+	writing mesh:  Sphere008_Light_0.002
+	writing mesh:  Sphere016_Light_0.002
+	writing mesh:  Sphere015_Light_0.002
+	writing mesh:  Box016_White_Wall_0.002
+	writing mesh:  Cylinder001_Material #5_0.002
+	writing mesh:  Sofa003_Sofa_0.002
+	writing mesh:  Sofa1b002_Sofa_0.002
+	writing mesh:  Sofa1b003_Sofa_0.002
+	writing mesh:  Box017_Rect_0.002
+	writing mesh:  Box018_08 - Default_0.002
+	writing mesh:  Box019_08 - Default_0.002
+	writing mesh:  Box020_08 - Default_0.002
+	writing mesh:  Box021_08 - Default_0.002
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 18.2597 secs

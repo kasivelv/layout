@@ -27,7 +27,7 @@ export class SubfooterComponent implements OnInit {
     // },
     {
       title: 'Event 1 ',
-    
+
       children: [
         {
           title: 'STALL 1',

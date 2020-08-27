@@ -30,41 +30,41 @@ export class SubfooterComponent implements OnInit {
 
       children: [
         {
-          title: 'STALL 1',
+          title: 'Stall 1',
          
         },
         {
-          title: 'Stall 5 ',   
+          title: 'Stall 2',   
         },
         {
-          title: 'Stall 7',
+          title: 'Stall 3',
         },
       ],
       
     },
     {
-      title: 'Event 8',
+      title: 'Event 2',
     
       children: [
         {
-          title: 'Stall 2', 
+          title: 'Stall 1', 
         
         },
       ],
     },
     {
-      title: 'Event 10',
+      title: 'Event 3',
     
       children: [
         {
-          title: 'STALL 11',
+          title: 'Stall 1',
          
         },
         {
-          title: 'Stall 15 ',   
+          title: 'Stall 2 ',   
         },
         {
-          title: 'Stall 17',
+          title: 'Stall 3',
         },
       ],
       

@@ -5,6 +5,8 @@ import { Subject } from 'rxjs';
 
 import { UserData } from 'src/app/@core/data/users';
 import { LayoutService } from 'src/app/@core/utils/layout.service';
+import { AuthService } from 'src/app/services/auth.service';
+import { Router } from '@angular/router';
 
 
 @Component({
@@ -41,13 +43,15 @@ export class HeaderComponent implements OnInit, OnDestroy{
   currentTheme = 'default';
 
   userMenu = [ { title: 'Profile' }, { title: 'Log out' } ];
+  
 
   constructor(private sidebarService: NbSidebarService,
               private menuService: NbMenuService,
               private themeService: NbThemeService,
               private userService: UserData,
               private layoutService: LayoutService,
-              private breakpointService: NbMediaBreakpointsService) {
+              private breakpointService: NbMediaBreakpointsService,
+              public authservice: AuthService, private router: Router) {
   }
 
   ngOnInit() {

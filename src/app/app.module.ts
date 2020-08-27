@@ -23,6 +23,8 @@ import {environment} from '../environments/environment';
 
 import { FormsModule } from '@angular/forms';
 import { LoginComponent } from './components/login/login.component';
+import { DumComponent } from './dum/dum.component';
+
 
 
 @NgModule({
@@ -35,6 +37,8 @@ import { LoginComponent } from './components/login/login.component';
     SubfooterComponent,
     RegisterComponent,
     LoginComponent,
+    DumComponent,
+
 
   ],
   imports: [

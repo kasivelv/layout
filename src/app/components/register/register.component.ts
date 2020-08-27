@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import {AuthService} from '../../services/auth.service';
+import {AngularFirestore} from '@angular/fire/firestore';
 
 @Component({
   selector: 'app-register',
@@ -14,7 +15,7 @@ export class RegisterComponent implements OnInit {
   errorMessage = ''; // validation error handle
   error: { name: string, message: string } = { name: '', message: '' }; // for firbase error handle
 
-  constructor(private authservice: AuthService, private router:Router) { }
+  constructor(private authservice: AuthService, private router:Router,public fireservices:AngularFirestore) { }
 
   ngOnInit(): void {
   }
@@ -32,7 +33,13 @@ export class RegisterComponent implements OnInit {
       this.authservice.registerWithEmail(this.email, this.password)
         .then(() => {
           this.message = "you are register with data on firbase"
-          //this.router.navigate(['/userinfo'])
+          this.router.navigate(['/dum'])
+          let Record = {};
+          Record['email'] = this.email;
+          Record['password'] = this.password;
+          return this.fireservices.collection('vrcustomer').add(Record);
+
+
         }).catch(_error => {
           this.error = _error
         })

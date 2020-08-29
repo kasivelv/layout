@@ -32,7 +32,7 @@ export class RegisterComponent implements OnInit {
     if (this.validateForm(this.email, this.password)) {
       this.authservice.registerWithEmail(this.email, this.password)
         .then(() => {
-          this.message = "you are register with data on firbase"
+          this.message = "you are registered"
           this.router.navigate(['/dum'])
           let Record = {};
           Record['email'] = this.email;

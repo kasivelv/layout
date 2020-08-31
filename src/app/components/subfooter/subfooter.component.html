@@ -1,23 +1,22 @@
 <ng-template #dialog let-data let-ref="dialogRef">
-    <nb-card col-12 col-sm-6 col-md-8>
-      <nb-card-header >Stall List</nb-card-header>
+    <nb-card style="width: 300px;" >
+      <nb-card-header class="text-center" style="background-color: #ff3d71;">
+       <h4 style="color: aliceblue;"> Stall List</h4></nb-card-header>
       <nb-card-body>   
 
-          <div class="col-md-2 col-lg-10 col-xxxl-6">
-            <nb-card class="list-card" size="small">
-             
-              <nb-menu [items]="items" autoCollapse="true">
-                <button>asd</button>
-              </nb-menu>  
-      
+          <div class="container">
+                         
+              <nb-menu [items]="items" autoCollapse="true">               
+              </nb-menu>    
               
-            </nb-card>
+            
           </div>
       
        
       </nb-card-body>
-      <nb-card-footer>
-        <button nbButton (click)="ref.close()">Close </button>
+      <nb-card-footer >
+        <button nbButton (click)="ref.close()" status="danger" class="container">Close</button>
+        
       </nb-card-footer>
     </nb-card>
   </ng-template>
@@ -26,6 +25,7 @@
    </div>
 
    <nb-layout-column>
+
 
     <button nbButton (click)="open(dialog)" center>List of Stalls</button>
   </nb-layout-column>

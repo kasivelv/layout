@@ -25,6 +25,7 @@ import { FormsModule } from '@angular/forms';
 import { LoginComponent } from './components/login/login.component';
 import { DumComponent } from './dum/dum.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { StallpagesComponent } from './stallpages/stallpages.component';
 
 
 
@@ -39,6 +40,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     RegisterComponent,
     LoginComponent,
     DumComponent,
+    StallpagesComponent,
 
 
   ],
@@ -70,6 +72,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     AngularFirestoreModule,
     FormsModule,
     NgbModule
+    
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

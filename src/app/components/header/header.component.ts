@@ -15,6 +15,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./header.component.scss'],
     
 })
+
 export class HeaderComponent implements OnInit, OnDestroy{
 
   private destroy$: Subject<void> = new Subject<void>();

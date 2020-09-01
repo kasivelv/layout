@@ -1,25 +1,29 @@
+<!DOCTYPE html>
 <nb-layout>
     <nb-layout-header fixed><app-header></app-header></nb-layout-header>
-    <nb-layout-header subheader><app-subheader></app-subheader></nb-layout-header>
-    <nb-sidebar class="menu-sidebar" tag="menu-sidebar" responsive><app-sidebar></app-sidebar></nb-sidebar>
+    <!-- <nb-layout-header subheader><app-subheader></app-subheader></nb-layout-header> -->
+    <!-- <nb-sidebar class="menu-sidebar" tag="menu-sidebar" responsive><app-sidebar></app-sidebar></nb-sidebar> -->
    
-    <nb-layout-column><app-engine ></app-engine></nb-layout-column>
+    <!-- <nb-layout-column>
+      
+    </nb-layout-column> -->
+    <nb-layout-column class="colored-column-basic"><app-engine ></app-engine></nb-layout-column>
   
      
-    <nb-layout-column >  
-      <!-- <router-outlet></router-outlet> -->
-       <!-- <app-login></app-login>
-       <app-register></app-register> -->
+    <!-- <nb-layout-column >  
+      <router-outlet></router-outlet>
+       <app-login></app-login>
+       <app-register></app-register>
 
-    </nb-layout-column>
+    </nb-layout-column> -->
       
   <!--   
     <nb-layout-column >  <app-subfooter></app-subfooter> </nb-layout-column>
   
      -->
-    <nb-layout-footer fixed>
-       <app-subfooter center></app-subfooter>
-       <ngx-footer center></ngx-footer>
+    <nb-layout-footer >
+       <app-subfooter ></app-subfooter>
+      
     </nb-layout-footer> 
   
   

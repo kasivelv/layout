@@ -20,13 +20,26 @@
       </nb-card-footer>
     </nb-card>
   </ng-template>
-  <div row>
- <!-- <button nbButton (click)="open(dialog)" center >Stall List</button> -->
-   </div>
+
 
    <nb-layout-column>
+     <div class="container">
+      <div class="row">
+        
+        <div class="col-6">
+          <button nbButton (click)="open(dialog)" >Product List</button>
+        </div>
+        <div class="col-6">
+          <button nbButton (click)="open(dialog)" >List of Stalls</button>
+        </div>
+        
+        
+       </div>
+     </div>
+     
 
 
-    <button nbButton (click)="open(dialog)" center>List of Stalls</button>
+    
+    
   </nb-layout-column>
   
